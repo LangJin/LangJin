@@ -18,49 +18,37 @@
 
 ## 🎀 角色卡
 
-<table>
-<thead>
+<div align="center">
+
+<table align="center">
 <tr>
-<th width="25%" align="center">职业</th>
-<th width="25%" align="center">等级</th>
-<th width="25%" align="center">阵营</th>
-<th width="25%" align="center">状态</th>
+<td align="center" width="150"><b>职业</b><br/><sub>全栈开发工程师<br/>测试工程师</sub></td>
+<td align="center" width="150"><b>等级</b><br/><sub>LV.13<br/>2013 年建号</sub></td>
+<td align="center" width="150"><b>阵营</b><br/><sub>中立 · 折腾<br/>什么顺手用什么</sub></td>
+<td align="center" width="150"><b>状态</b><br/><sub>在线 🟢<br/>可能在改代码</sub></td>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">全栈开发工程师<br/>测试工程师</td>
-<td align="center">LV.13<br/>2013 年建号</td>
-<td align="center">中立 · 折腾<br/>什么顺手用什么</td>
-<td align="center">在线 🟢<br/>可能在改代码</td>
-</tr>
-</tbody>
 </table>
 
-<table>
-<thead>
+<br/>
+
+<table align="center">
 <tr>
-<th width="26%" align="left">属性</th>
-<th width="24%" align="left">数值</th>
-<th width="26%" align="left">属性</th>
-<th width="24%" align="left">数值</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>代码力</b></td>
-<td>████████░░ <sub>80</sub></td>
-<td><b>质量力</b></td>
-<td>█████████░ <sub>92</sub></td>
+<td align="center" width="110"><b>代码力</b></td>
+<td align="center" width="150">████████░░ <sub>80</sub></td>
+<td align="center" width="110"><b>质量力</b></td>
+<td align="center" width="150">█████████░ <sub>92</sub></td>
 </tr>
 <tr>
-<td><b>折腾力</b></td>
-<td>██████████ <sub>99</sub></td>
-<td><b>咖啡耐受</b></td>
-<td>█████████░ <sub>90</sub></td>
+<td align="center"><b>折腾力</b></td>
+<td align="center">██████████ <sub>99</sub></td>
+<td align="center"><b>咖啡耐受</b></td>
+<td align="center">█████████░ <sub>90</sub></td>
 </tr>
-</tbody>
 </table>
+
+</div>
+
+<br/>
 
 2013 年入行，第一份工是把需求拆成一条条测试用例。后来嫌重复的事太多就开始写脚本，脚本越写越大成了工具，工具被团队用起来成了平台；再后来需要界面、需要服务、需要部署、需要把 AI 接进来 —— 于是就成了全栈。
 
@@ -137,76 +125,76 @@
 - **异步任务**：taskiq + Redis 的队列消费与定时调度，`docker compose` 一键起
 - **双数据库**：PostgreSQL 16（pgvector）/ MySQL 8.0，通过 `DB_ENGINE` 切换
 
-<table>
-<thead>
+<div align="center">
+
+<table align="center">
 <tr>
-<th align="left" width="40%">在做的事</th>
-<th align="center" width="16%">状态</th>
-<th align="left">一句话</th>
+<td align="center" width="220"><b>在做的事</b></td>
+<td align="center" width="100"><b>状态</b></td>
+<td align="left" width="300"><b>一句话</b></td>
 </tr>
-</thead>
-<tbody>
 <tr>
-<td>grapefruit 插件层与代码生成器</td>
+<td align="left">grapefruit 插件层与代码生成器</td>
 <td align="center">🌸 打磨中</td>
-<td>让新项目第一天就能跑起来</td>
+<td align="left">让新项目第一天就能跑起来</td>
 </tr>
 <tr>
-<td>团队测试平台</td>
+<td align="left">团队测试平台</td>
 <td align="center">🔧 维护中</td>
-<td>用例、报告、质量指标放一个地方</td>
+<td align="left">用例、报告、质量指标放一个地方</td>
 </tr>
 <tr>
-<td>Agent 工作流模板</td>
+<td align="left">Agent 工作流模板</td>
 <td align="center">🧪 实验</td>
-<td>先跑通，再谈优雅</td>
+<td align="left">先跑通，再谈优雅</td>
 </tr>
 <tr>
-<td>B 站 / 知乎 输出</td>
+<td align="left">B 站 / 知乎 输出</td>
 <td align="center">📮 随缘</td>
-<td>把踩过的坑讲成别人少走的弯路</td>
+<td align="left">把踩过的坑讲成别人少走的弯路</td>
 </tr>
-</tbody>
 </table>
 
-<p align="center">
+<br/>
+
 <a href="https://github.com/LangJin/python-vue-grapefruit"><img src="https://img.shields.io/badge/%F0%9F%8D%8A_%E8%BF%9B%E5%85%A5%E4%BB%93%E5%BA%93-F06292?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
-</p>
+
+</div>
 
 ---
 
 ## 💗 我的一些想法
 
-1. **先跑通，再优雅** —— 能用的丑代码，胜过不能跑的漂亮设计
-2. **能被验证的，才叫完成** —— 测试出身的执念，改不掉
-3. **第二次做的事，就该写成工具** —— 时间要花在没做过的事上
+<div align="center">
 
-<table>
-<thead>
+**先跑通，再优雅** —— 能用的丑代码，胜过不能跑的漂亮设计
+
+**能被验证的，才叫完成** —— 测试出身的执念，改不掉
+
+**第二次做的事，就该写成工具** —— 时间要花在没做过的事上
+
+<br/>
+
+<table align="center">
 <tr>
-<th align="left" width="22%">常聊的话题</th>
-<th align="left">具体在聊什么</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>前端工程化</b></td>
-<td>Vue 3 项目结构、组件设计、构建与性能</td>
-</tr>
-<tr>
-<td><b>测试体系</b></td>
-<td>分层测试、接口自动化、质量度量与左移</td>
+<td align="left" width="140"><b>前端工程化</b></td>
+<td align="left" width="380">Vue 3 项目结构、组件设计、构建与性能</td>
 </tr>
 <tr>
-<td><b>全栈架构</b></td>
-<td>FastAPI 分层、插件化、任务队列与部署</td>
+<td align="left"><b>测试体系</b></td>
+<td align="left">分层测试、接口自动化、质量度量与左移</td>
 </tr>
 <tr>
-<td><b>Agent 落地</b></td>
-<td>RAG 检索质量、多 Agent 协作、工具调用</td>
+<td align="left"><b>全栈架构</b></td>
+<td align="left">FastAPI 分层、插件化、任务队列与部署</td>
 </tr>
-</tbody>
+<tr>
+<td align="left"><b>Agent 落地</b></td>
+<td align="left">RAG 检索质量、多 Agent 协作、工具调用</td>
+</tr>
 </table>
+
+</div>
 
 ---
 
