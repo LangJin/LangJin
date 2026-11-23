@@ -12,8 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=FF8FC7&center=true&vCenter=true&width=680&lines=Dream.+Code.+Ship.;Debugging+with+the+power+of+friendship.;Shipping+is+magic.;Level+up!+%2B1+EXP" alt="typing" />
 
-<br/>
-
 <sub>「 一入江湖三十春，幸得书剑解红尘。 」</sub>
 
 </div>
@@ -21,18 +19,48 @@
 ## 🎀 角色卡
 
 <table>
+<thead>
 <tr>
-<td width="25%" align="center"><b>职业</b><br/><sub>全栈开发工程师<br/>测试工程师</sub></td>
-<td width="25%" align="center"><b>等级</b><br/><sub>LV.13<br/>2013 年建号</sub></td>
-<td width="25%" align="center"><b>阵营</b><br/><sub>中立 · 折腾<br/>什么顺手用什么</sub></td>
-<td width="25%" align="center"><b>状态</b><br/><sub>在线 🟢<br/>可能在改代码</sub></td>
+<th width="25%" align="center">职业</th>
+<th width="25%" align="center">等级</th>
+<th width="25%" align="center">阵营</th>
+<th width="25%" align="center">状态</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">全栈开发工程师<br/>测试工程师</td>
+<td align="center">LV.13<br/>2013 年建号</td>
+<td align="center">中立 · 折腾<br/>什么顺手用什么</td>
+<td align="center">在线 🟢<br/>可能在改代码</td>
+</tr>
+</tbody>
 </table>
 
-| 属性 | 数值 | 属性 | 数值 |
-| :--- | :--- | :--- | :--- |
-| 代码力 | ████████░░ 80 | 质量力 | █████████░ 92 |
-| 折腾力 | ██████████ 99 | 咖啡耐受 | █████████░ 90 |
+<table>
+<thead>
+<tr>
+<th width="26%" align="left">属性</th>
+<th width="24%" align="left">数值</th>
+<th width="26%" align="left">属性</th>
+<th width="24%" align="left">数值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>代码力</b></td>
+<td>████████░░ <sub>80</sub></td>
+<td><b>质量力</b></td>
+<td>█████████░ <sub>92</sub></td>
+</tr>
+<tr>
+<td><b>折腾力</b></td>
+<td>██████████ <sub>99</sub></td>
+<td><b>咖啡耐受</b></td>
+<td>█████████░ <sub>90</sub></td>
+</tr>
+</tbody>
+</table>
 
 2013 年入行，第一份工是把需求拆成一条条测试用例。后来嫌重复的事太多就开始写脚本，脚本越写越大成了工具，工具被团队用起来成了平台；再后来需要界面、需要服务、需要部署、需要把 AI 接进来 —— 于是就成了全栈。
 
@@ -101,7 +129,7 @@
 
 ## ✨ 作品
 
-**【SSR】[python-vue-grapefruit](https://github.com/LangJin/python-vue-grapefruit)** —— 一套代码，四端上线
+**[python-vue-grapefruit](https://github.com/LangJin/python-vue-grapefruit)** —— 一套代码，四端上线
 
 - **四端同仓**：`frontend`（Element Plus 中后台）/ `desktop`（Naive UI）/ `mobile`（uni-app）/ `www`（VitePress）
 - **插件化后端**：数据库、Redis、日志、加密、队列、OSS、短信都是可插拔的 plugin
@@ -109,16 +137,41 @@
 - **异步任务**：taskiq + Redis 的队列消费与定时调度，`docker compose` 一键起
 - **双数据库**：PostgreSQL 16（pgvector）/ MySQL 8.0，通过 `DB_ENGINE` 切换
 
-<p align="center">
-<a href="https://github.com/LangJin/python-vue-grapefruit"><img src="https://img.shields.io/badge/%F0%9F%8D%8A_%E8%BF%9B%E5%85%A5%E4%BB%BB%E5%8A%A1-F06292?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
-</p>
+<table>
+<thead>
+<tr>
+<th align="left" width="40%">在做的事</th>
+<th align="center" width="16%">状态</th>
+<th align="left">一句话</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>grapefruit 插件层与代码生成器</td>
+<td align="center">🌸 打磨中</td>
+<td>让新项目第一天就能跑起来</td>
+</tr>
+<tr>
+<td>团队测试平台</td>
+<td align="center">🔧 维护中</td>
+<td>用例、报告、质量指标放一个地方</td>
+</tr>
+<tr>
+<td>Agent 工作流模板</td>
+<td align="center">🧪 实验</td>
+<td>先跑通，再谈优雅</td>
+</tr>
+<tr>
+<td>B 站 / 知乎 输出</td>
+<td align="center">📮 随缘</td>
+<td>把踩过的坑讲成别人少走的弯路</td>
+</tr>
+</tbody>
+</table>
 
-| 在做的事 | 状态 | 一句话 |
-| :--- | :---: | :--- |
-| grapefruit 插件层与代码生成器 | 🌸 打磨中 | 让新项目第一天就能跑起来 |
-| 团队测试平台 | 🔧 维护中 | 用例、报告、质量指标放一个地方 |
-| Agent 工作流模板 | 🧪 实验 | 先跑通，再谈优雅 |
-| B 站 / 知乎 输出 | 📮 随缘 | 把踩过的坑讲成别人少走的弯路 |
+<p align="center">
+<a href="https://github.com/LangJin/python-vue-grapefruit"><img src="https://img.shields.io/badge/%F0%9F%8D%8A_%E8%BF%9B%E5%85%A5%E4%BB%93%E5%BA%93-F06292?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
+</p>
 
 ---
 
@@ -128,14 +181,32 @@
 2. **能被验证的，才叫完成** —— 测试出身的执念，改不掉
 3. **第二次做的事，就该写成工具** —— 时间要花在没做过的事上
 
-**常聊的话题**
-
-| 方向 | 具体在聊什么 |
-| :--- | :--- |
-| 前端工程化 | Vue 3 项目结构、组件设计、构建与性能 |
-| 测试体系 | 分层测试、接口自动化、质量度量与左移 |
-| 全栈架构 | FastAPI 分层、插件化、任务队列与部署 |
-| Agent 落地 | RAG 检索质量、多 Agent 协作、工具调用 |
+<table>
+<thead>
+<tr>
+<th align="left" width="22%">常聊的话题</th>
+<th align="left">具体在聊什么</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>前端工程化</b></td>
+<td>Vue 3 项目结构、组件设计、构建与性能</td>
+</tr>
+<tr>
+<td><b>测试体系</b></td>
+<td>分层测试、接口自动化、质量度量与左移</td>
+</tr>
+<tr>
+<td><b>全栈架构</b></td>
+<td>FastAPI 分层、插件化、任务队列与部署</td>
+</tr>
+<tr>
+<td><b>Agent 落地</b></td>
+<td>RAG 检索质量、多 Agent 协作、工具调用</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
