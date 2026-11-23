@@ -59,15 +59,43 @@
 
 ### 常用的
 
-**前端**　`Vue 3`　`TypeScript`　`Vite`　`Pinia`　`Element Plus`　`Naive UI`　`uni-app`
+<div align="center">
 
-**后端**　`Python`　`FastAPI`　`Tortoise ORM`　`Node.js`　`PostgreSQL`　`MySQL`　`Redis`　`taskiq`
+**前端**
 
-**测试**　`Pytest`　`Selenium`　`Playwright`　`Postman`　`JMeter`　`Allure`
+<img src="https://skillicons.dev/icons?i=vue,ts,vite,pinia,sass,js&perline=6" alt="frontend" />
 
-**工程**　`Docker`　`Nginx`　`Git`　`GitHub Actions`　`Linux`
+<sub>Element Plus · Naive UI · uni-app</sub>
 
-**AI**　`LLM`　`RAG`　`MCP`　`Agno`
+<br/>
+
+**后端**
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres,mysql,redis,rabbitmq&perline=7" alt="backend" />
+
+<sub>Tortoise ORM · taskiq</sub>
+
+<br/>
+
+**测试**
+
+<img src="https://skillicons.dev/icons?i=selenium,postman,vitest&perline=3" alt="testing" />
+
+<sub>Pytest · Playwright · JMeter · Allure</sub>
+
+<br/>
+
+**工程**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions,linux,vscode&perline=6" alt="devops" />
+
+<br/>
+
+**AI**
+
+<sub>LLM · RAG · MCP · Agno</sub>
+
+</div>
 
 ---
 
