@@ -14,7 +14,11 @@
 <a href="https://space.bilibili.com/6770138"><img src="https://img.shields.io/badge/Bilibili-6770138-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
 <a href="https://www.zhihu.com/people/qin-mu-chu-28"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-qin--mu--chu--28-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
 
-<br/><br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=6AA9FF&center=true&vCenter=true&width=640&lines=Write+code%2C+also+write+quality.;Test+first%2C+ship+faster.;Build+tools+that+outlive+the+project.;Still+learning%2C+still+shipping." alt="typing" />
+
+<br/>
 
 <sub>「 一入江湖三十春，幸得书剑解红尘。 」</sub>
 
