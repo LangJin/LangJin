@@ -2,82 +2,49 @@
 
 # 🌸 浪晋 ／ LangJin 🌸
 
-### 全栈开发工程师 × 测试工程师
+**全栈开发工程师 × 测试工程师**
 
 <sub>LV.13 ・ 成都 ・ 2013 级玩家 ・ 双职业，不点洗点</sub>
-
-<br/>
 
 <a href="https://github.com/LangJin"><img src="https://img.shields.io/badge/GitHub-LangJin-FF8FC7?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://space.bilibili.com/6770138"><img src="https://img.shields.io/badge/Bilibili-6770138-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
 <a href="https://www.zhihu.com/people/qin-mu-chu-28"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-qin--mu--chu--28-F06292?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=FF8FC7&center=true&vCenter=true&width=680&lines=Dream.+Code.+Ship.;Debugging+with+the+power+of+friendship.;Shipping+is+magic.;Level+up!+%2B1+EXP" alt="typing" />
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=FF8FC7&center=true&vCenter=true&width=680&lines=Dream.+Code.+Ship.;Debugging+with+the+power+of+friendship.;Shipping+is+magic.;Level+up!+%2B1+EXP" alt="typing" />
-
-<sub>꒰ঌ ──────────── ✦ ──────────── ໒꒱</sub>
+<sub>「 一入江湖三十春，幸得书剑解红尘。 」</sub>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-### 🎀 角色卡
+## 🎀 角色卡
 
 <table>
 <tr>
-<td width="25%" align="center">
-
-**职业**
-
-<sub>全栈开发工程师<br/>测试工程师</sub>
-
-</td>
-<td width="25%" align="center">
-
-**等级**
-
-<sub>LV.13<br/>2013 年建号</sub>
-
-</td>
-<td width="25%" align="center">
-
-**阵营**
-
-<sub>中立 · 折腾<br/>什么顺手用什么</sub>
-
-</td>
-<td width="25%" align="center">
-
-**状态**
-
-<sub>在线 🟢<br/>可能在改代码</sub>
-
-</td>
+<td width="25%" align="center"><b>职业</b><br/><sub>全栈开发工程师<br/>测试工程师</sub></td>
+<td width="25%" align="center"><b>等级</b><br/><sub>LV.13<br/>2013 年建号</sub></td>
+<td width="25%" align="center"><b>阵营</b><br/><sub>中立 · 折腾<br/>什么顺手用什么</sub></td>
+<td width="25%" align="center"><b>状态</b><br/><sub>在线 🟢<br/>可能在改代码</sub></td>
 </tr>
 </table>
 
-<br/>
+| 属性 | 数值 | 属性 | 数值 |
+| :--- | :--- | :--- | :--- |
+| 代码力 | ████████░░ 80 | 质量力 | █████████░ 92 |
+| 折腾力 | ██████████ 99 | 咖啡耐受 | █████████░ 90 |
 
-| 属性 | 数值 |
-| :--- | :--- |
-| 代码力 | ████████░░ 80 |
-| 质量力 | █████████░ 92 |
-| 折腾力 | ██████████ 99 |
-| 咖啡耐受 | █████████░ 90 |
+2013 年入行，第一份工是把需求拆成一条条测试用例。后来嫌重复的事太多就开始写脚本，脚本越写越大成了工具，工具被团队用起来成了平台；再后来需要界面、需要服务、需要部署、需要把 AI 接进来 —— 于是就成了全栈。
 
-<sub>被动技能：同一件事做第二遍，就会开始写工具 ✨</sub>
-<sub>弱点：看到奇怪的 bug 会熬夜（已知问题，暂未修复）</sub>
+所以我不是「转行」过来的，是**一路把问题解决到今天**：功能测试 → 自动化测试 → 测试开发 → Python 开发 → 全栈开发 → Agent 开发。十三年其实只做一件事：**让复杂的东西稳定地跑起来。**
 
-</div>
+<sub>被动技能：同一件事做第二遍，就会开始写工具　・　弱点：看到奇怪的 bug 会熬夜（已知问题，暂未修复）</sub>
 
 ---
 
-<div align="center">
+## 🌸 技能树
 
-### 🌸 技能树
+<div align="center">
 
 **前端系**
 
@@ -89,8 +56,6 @@
 <img src="https://img.shields.io/badge/Element_Plus-FFBBD9?style=flat-square&logo=element&logoColor=white" />
 <img src="https://img.shields.io/badge/Naive_UI-FFC6E0?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/uni--app-FFD0E7?style=flat-square&logoColor=white" />
-
-<br/><br/>
 
 **后端系**
 
@@ -105,8 +70,6 @@
 <img src="https://img.shields.io/badge/RabbitMQ-FCB0CA?style=flat-square&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Celery-FDBED4?style=flat-square&logo=celery&logoColor=white" />
 
-<br/><br/>
-
 **测试系**
 
 <img src="https://img.shields.io/badge/Pytest-D81B60?style=flat-square&logo=pytest&logoColor=white" />
@@ -116,8 +79,6 @@
 <img src="https://img.shields.io/badge/JMeter-F05F90?style=flat-square&logo=apachejmeter&logoColor=white" />
 <img src="https://img.shields.io/badge/Allure-F6709C?style=flat-square&logoColor=white" />
 
-<br/><br/>
-
 **工程系**
 
 <img src="https://img.shields.io/badge/Docker-F472A8?style=flat-square&logo=docker&logoColor=white" />
@@ -126,8 +87,6 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-FA9FC6?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCAED0?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-FDBDDA?style=flat-square&logoColor=white" />
-
-<br/><br/>
 
 **召唤系**
 
@@ -140,17 +99,9 @@
 
 ---
 
-<div align="center">
+## ✨ 作品
 
-### ✨ 当前主线任务
-
-<sub>【SSR】python-vue-grapefruit</sub>
-
-**一套代码，四端上线**
-
-<sub>Vue 3 + FastAPI 全栈中后台 ・ 进度 ▓▓▓▓▓▓▓▓░░</sub>
-
-</div>
+**【SSR】[python-vue-grapefruit](https://github.com/LangJin/python-vue-grapefruit)** —— 一套代码，四端上线
 
 - **四端同仓**：`frontend`（Element Plus 中后台）/ `desktop`（Naive UI）/ `mobile`（uni-app）/ `www`（VitePress）
 - **插件化后端**：数据库、Redis、日志、加密、队列、OSS、短信都是可插拔的 plugin
@@ -162,90 +113,44 @@
 <a href="https://github.com/LangJin/python-vue-grapefruit"><img src="https://img.shields.io/badge/%F0%9F%8D%8A_%E8%BF%9B%E5%85%A5%E4%BB%BB%E5%8A%A1-F06292?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
 </p>
 
----
-
-<div align="center">
-
-### 🍓 存档点
-
-</div>
-
-| 存档 | 职业 | 剧情 |
-| :---: | :--- | :--- |
-| `2013` | 🧾 功能测试工程师 | 新手村：把需求拆成一条条用例，学会怀疑一切 |
-| `lv+1` | ⚙️ 自动化测试工程师 | 学会第一个技能：把重复劳动交给代码 |
-| `lv+2` | 🧱 测试开发工程师 | 开始造装备：测试平台、工具链、CI |
-| `lv+3` | 🐍 Python 开发工程师 | 转职：从写脚本到写服务 |
-| `lv+4` | 🧩 全栈开发工程师 | 双持武器：Vue 3 + FastAPI 独立通关 |
-| `now` | 🤖 AI Agent 开发 | 解锁召唤系：让 LLM 真正进业务链路 |
-
-<div align="center"><sub>十三年只练一招：让复杂的东西稳定地跑起来 💗</sub></div>
+| 在做的事 | 状态 | 一句话 |
+| :--- | :---: | :--- |
+| grapefruit 插件层与代码生成器 | 🌸 打磨中 | 让新项目第一天就能跑起来 |
+| 团队测试平台 | 🔧 维护中 | 用例、报告、质量指标放一个地方 |
+| Agent 工作流模板 | 🧪 实验 | 先跑通，再谈优雅 |
+| B 站 / 知乎 输出 | 📮 随缘 | 把踩过的坑讲成别人少走的弯路 |
 
 ---
 
-<div align="center">
+## 💗 我的一些想法
 
-### 💌 联机邀请
+1. **先跑通，再优雅** —— 能用的丑代码，胜过不能跑的漂亮设计
+2. **能被验证的，才叫完成** —— 测试出身的执念，改不掉
+3. **第二次做的事，就该写成工具** —— 时间要花在没做过的事上
 
-<table>
-<tr>
-<td width="33%" align="center">
+**常聊的话题**
 
-**Bilibili**
-
-<sub>技术视频与实战演示<br/>把复杂的东西讲清楚</sub>
-
-[space.bilibili.com/6770138](https://space.bilibili.com/6770138)
-
-</td>
-<td width="33%" align="center">
-
-**知乎**
-
-<sub>技术长文与经验复盘<br/>写给几个月后的自己</sub>
-
-[zhihu.com/people/qin-mu-chu-28](https://www.zhihu.com/people/qin-mu-chu-28)
-
-</td>
-<td width="33%" align="center">
-
-**GitHub**
-
-<sub>代码都在这里<br/>欢迎 Star 与随手关注</sub>
-
-[github.com/LangJin](https://github.com/LangJin)
-
-</td>
-</tr>
-</table>
-
-</div>
+| 方向 | 具体在聊什么 |
+| :--- | :--- |
+| 前端工程化 | Vue 3 项目结构、组件设计、构建与性能 |
+| 测试体系 | 分层测试、接口自动化、质量度量与左移 |
+| 全栈架构 | FastAPI 分层、插件化、任务队列与部署 |
+| Agent 落地 | RAG 检索质量、多 Agent 协作、工具调用 |
 
 ---
 
-<div align="center">
-
-### 🌷 日常任务
-
-</div>
-
-- [x] 用 Agent 重构内部重复流程 —— 先跑通，再谈优雅
-- [x] 给手上项目补 E2E 与契约测试，让重构不再心慌
-- [ ] 打磨 grapefruit 的插件层与代码生成器
-- [ ] 成都的雨天读源码（进度缓慢但持续，绝不弃坑）
-
----
+## 💌 联机邀请
 
 <div align="center">
+
+<a href="https://space.bilibili.com/6770138"><img src="https://img.shields.io/badge/Bilibili-%E6%8A%80%E6%9C%AF%E8%A7%86%E9%A2%91%E4%B8%8E%E5%AE%9E%E6%88%98%E6%BC%94%E7%A4%BA-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+<a href="https://www.zhihu.com/people/qin-mu-chu-28"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%95%BF%E6%96%87%E4%B8%8E%E7%BB%8F%E9%AA%8C%E5%A4%8D%E7%9B%98-F06292?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
+<a href="https://github.com/LangJin"><img src="https://img.shields.io/badge/GitHub-%E4%BB%A3%E7%A0%81%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C-FF8FC7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <sub>꒰ঌ ──────────── ✦ ──────────── ໒꒱</sub>
 
 > 代码是写给未来的信，愿你我都写得从容。
 
 <sub>またね ～　If my work helped you, a ⭐ 就是最好的投喂</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Made_with_%E2%99%A1_in_Chengdu-FFB6D9?style=for-the-badge&logoColor=white" alt="made" />
 
 </div>
